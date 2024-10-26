@@ -9,3 +9,6 @@ Author: Isabela Ureche
 
 ## Circles
 Author: Anika Maji
+
+## Virtual Pet
+Author: Annika Balan
