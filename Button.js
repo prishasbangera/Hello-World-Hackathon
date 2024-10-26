@@ -9,7 +9,7 @@ class Button {
         bu.textContent = text;
 
         bu.addEventListener("click", function() {
-            window.open(link);
+            document.getElementById("p5-project").src = link;
         });
     }
 
