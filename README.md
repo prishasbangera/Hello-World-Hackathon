@@ -1,11 +1,15 @@
 # Hello-World-Hackathon
 Team Project - 10/26 to 10/26/2024
 
-Website:
+## Website
 Author: Prisha Bangera
 
-Would you rather: 
-Author: Isabela Ureche
+## Would You Rather 
+Author: Isabela Ureche, Prisha Bangera
 
-Circles:
+## Circles
 Author: Anika Maji
+Contributor: Prisha Bangera
+
+## Virtual Pet
+Author: Annika Balan
