@@ -1,6 +1,9 @@
 body {
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+}
 
+#buttons-container {
+    width: 100%;
 }
 
 #p5-project {
@@ -9,11 +12,20 @@ body {
     border: none;
 }
 
+#bear-image {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    left: 50%;
+}
+
 .project-button {
+    margin: 5px;
     padding: 20px;
     border: none;
     border-radius: 13px;
     font-size: 10px;
+    font-weight: bold;
 }
 
 .project-button:hover {
