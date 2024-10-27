@@ -19,5 +19,5 @@ We can't help you with the last thing, but visit BoredGames.Bear to see some ran
 - Author: Anika Maji
 - Contributor: Prisha Bangera
 
-## Virtual Pet
+## Bear Simulator
 - Author: Annika Balan
