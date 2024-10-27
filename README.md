@@ -21,7 +21,7 @@ We can't help you with the last thing, but visit BoredGames.Bear to see some ran
 ## Would You Rather? 
 - Author: Isabela Ureche
 
-## Follow the Circle
+## Circles
 - Author: Anika Maji
     - Displays a moving circle that changes colors, shrinks, and moves faster when clicked.
     - Displays farewell message if player manages to get circle to shrink to size 0.
