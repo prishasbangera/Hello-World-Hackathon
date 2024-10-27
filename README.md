@@ -12,12 +12,14 @@ We can't help you with the last thing, but visit BoredGames.Bear to see some ran
 ## Website
 - Author: Prisha Bangera
 
-## Would You Rather 
-- Author: Isabela Ureche, Prisha Bangera
-
-## Circles
-- Author: Anika Maji
-- Contributor: Prisha Bangera
-
 ## Bear Simulator
 - Author: Annika Balan
+
+## Doodle Board
+- Author: Prisha Bangera
+
+## Would You Rather 
+- Author: Isabela Ureche
+
+## Follow the Circle
+- Author: Anika Maji

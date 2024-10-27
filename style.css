@@ -1,9 +1,22 @@
 body {
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+    font-family: monospace,'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:rgb(248, 240, 255);
 }
 
-#buttons-container {
-    width: 100%;
+#title {
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:rgb(201, 180, 241);
+    padding: 10px;
+    border-radius: 7px;
+}
+
+.center-div {
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 
 #p5-project {
@@ -12,20 +25,32 @@ body {
     border: none;
 }
 
-#bear-image {
-    margin-left: auto;
-    margin-right: auto;
+#images-container > img {
     display: block;
-    left: 50%;
+}
+
+#heart-image {
+    width: 25px;
+    height: 25px;
+    position: relative;
+    top: 102px;
+    left: 1px;
+}
+
+#bear-image {
+
 }
 
 .project-button {
-    margin: 5px;
-    padding: 20px;
+    margin: 3px;
+    margin-top: 2px;
+    padding: 13px;
     border: none;
-    border-radius: 13px;
+    border-radius: 7px;
     font-size: 10px;
     font-weight: bold;
+    font-size: 12px;
+    font-family: monospace;
 }
 
 .project-button:hover {
