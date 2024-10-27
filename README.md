@@ -18,7 +18,7 @@ We can't help you with the last thing, but visit BoredGames.Bear to see some ran
 ## Doodle Board
 - Author: Prisha Bangera
 
-## Would You Rather 
+## Would You Rather?
 - Author: Isabela Ureche
 
 ## Follow the Circle
