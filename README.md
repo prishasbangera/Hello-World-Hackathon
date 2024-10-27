@@ -17,7 +17,8 @@ We can't help you with the last thing, but visit BoredGames.Bear to see some ran
 
 ## Circles
 - Author: Anika Maji
-- Contributor: Prisha Bangera
+  - Displays a moving circle that changes colors, shrinks, and moves faster when clicked.
+  - Displays farewell message if player manages to get circle to shrink to size 0.
 
 ## Bear Simulator
 - Author: Annika Balan
